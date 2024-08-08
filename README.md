@@ -1,2 +1,2 @@
 # Cloud-Project
-Cloud foundations course project
+Building Cloud Computing Solutions at Scale
